@@ -1,7 +1,5 @@
-# 4. Änderung im FIX und nicht im Feature
-# 2. Fix Docker
 # Hotfix eingefügt
-# 2. Feature docker file
+# 2. Fix und Feature im Dockerfile
 
 ARG DOCKER_BASE
 FROM $DOCKER_BASE

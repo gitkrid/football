@@ -1,5 +1,6 @@
 # 2. Fix Docker
 # Hotfix eingefügt
+# 2. Feature docker file
 
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
